@@ -1,4 +1,6 @@
-flask
+python==3.6
+flask==2.0.1
+
 opencv-python
 certifi==2020.6.20
 chardet==3.0.4
